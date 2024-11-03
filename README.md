@@ -8,6 +8,7 @@ This project is a dynamic marketing website designed to empower businesses in en
 
 This project was built using these technologies.
 
+
 - Frontend: HTML5, CSS3, JavaScript
 - Backend: Node.js, Express.js
 - Styling: Bootstrap
@@ -34,3 +35,4 @@ For support, email okroshan4u@gmail.com
 
 visit it here [marketgenius](https://marketgenius.netlify.app/) 
 
+![new](https://github.com/user-attachments/assets/58be7511-a93f-4e1d-8c9e-ace6bf19b536)
